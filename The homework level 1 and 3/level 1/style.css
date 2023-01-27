@@ -1,0 +1,40 @@
+h1{
+    color: red;
+}
+ol{
+    color: red;
+}
+span{
+    color: red;
+    font-weight: bold;
+}
+#CSS{
+    color: blue;
+    font-style: oblique;
+}
+h2{
+    color: green;
+}
+.phpJava{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+p{
+    font-size: 13px;
+}
+#script{
+    color: blue;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    color: brown;
+}
+.block3{
+    font-size: 20px;
+    font-style: oblique;
+    color: rgb(235, 26, 26);
+}
+div{
+    width: 650px;
+}
